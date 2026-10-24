@@ -1,7 +1,5 @@
 # ReconFlow
 
-**From a list of IPs to a reproducible findings report — in one command.**
-
 ReconFlow is a network recon orchestrator for authorized penetration tests. It
 runs nmap, fans every open port out to the right enumeration tools, drives
 Metasploit's auxiliary scanners from the database, screenshots every web
