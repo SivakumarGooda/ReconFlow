@@ -1,0 +1,25 @@
+# --- Engagement data: never commit client targets or results ---
+scope/inscope_ips.txt
+scope/outofscope_ips.txt
+recon-*/
+*.nmap
+*.gnmap
+scan-*.xml
+msf-run.log
+msf-findings.txt
+*.rc.autorun
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- Editors / OS ---
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# --- Misc ---
+*.log
